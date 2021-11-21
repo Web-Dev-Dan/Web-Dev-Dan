@@ -17,7 +17,7 @@
 
 <!-- Include once I have committed code to GitHub (Top Languages Widget):-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Web-Dev-Dan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Web-Dev-Dan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Web-Dev-Dan/Web-Dev-Dan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
