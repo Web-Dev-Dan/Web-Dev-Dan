@@ -10,6 +10,8 @@
 - 🐦 You can always find me on **Twitter**, [@web_dev_dan](https://twitter.com/web_dev_dan)
 - 👨‍🏫 I'm currently a teacher living in Japan 🇯🇵
 
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=f1f1f1"/>
+
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Web-Dev-Dan&show_icons=true&theme=tokyonight)
