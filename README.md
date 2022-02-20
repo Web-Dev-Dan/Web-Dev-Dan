@@ -15,6 +15,10 @@
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23325288.svg?style=for-the-badge&logo=html5&logoColor=ffffff"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%23476dad.svg?style=for-the-badge&logo=css3&logoColor=ffffff"/>
+  
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23325288.svg?style=for-the-badge&logo=bootstrap&logoColor=ffffff"/>
+<img alt="Sass" src="https://img.shields.io/badge/sass-%23476dad.svg?style=for-the-badge&logo=sass&logoColor=%23ffffff"/>
+  
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23325288.svg?style=for-the-badge&logo=javascript&logoColor=%23ffffff"/>
 <img alt="React" src="https://img.shields.io/badge/react-%23476dad.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%23325288.svg?style=for-the-badge&logo=tailwind-css&logoColor=ffffff"/>
