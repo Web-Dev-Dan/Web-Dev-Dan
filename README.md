@@ -1,4 +1,4 @@
-<!--![Banner](https://github.com/Web-Dev-Dan/Web-Dev-Dan/blob/main/Name%20Banner.png)-->
+![Banner](https://github.com/Web-Dev-Dan/Web-Dev-Dan/blob/main/Banner.png)
 
 # Hi! I'm Dan 😊
 
