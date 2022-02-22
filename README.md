@@ -44,10 +44,19 @@
 ## 📝 Recent Artices
 <br />
 <p>
-  <img src="" />
-  <img src="" />
+  <a href="https://web-dev-dan.hashnode.dev/javascript-tutorial-1-variables">
+    <img width="400" src="https://github.com/Web-Dev-Dan/Web-Dev-Dan/blob/main/JavaScript-Variables-Tutorial-Blog.png" />
+  </a>
+  <a href="https://web-dev-dan.hashnode.dev/javascript-project-a-simple-to-do-list">
+    <img width="400" src="https://github.com/Web-Dev-Dan/Web-Dev-Dan/blob/main/To-Do-List-Blog.png" />
+  </a>
 </p>
 
+<br />
+
+
+## 📊 My GitHub Stats
+<br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Web-Dev-Dan&show_icons=true&theme=tokyonight)
 
