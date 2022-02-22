@@ -25,11 +25,13 @@
 <img alt="Github" src="https://img.shields.io/badge/github-%23476dad.svg?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </p>
 
-<br>
+<br/>
 
+## 🛠 My Favourite Projects
+<br/>
 <p>
-  <img width="400" src="https://github.com/Web-Dev-Dan/JavaScript-To-Do-List/blob/main/To-Do%20List%20Screenshot.png" />
-  <br>
+  <img width="400" src="https://github.com/Web-Dev-Dan/JavaScript-To-Do-List/blob/main/To-Do-List-Screenshot.png" />
+  <br/>
   <img width="400" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Web-Dev-Dan&repo=JavaScript-To-Do-List&bg_color=325288&text_color=ffffff&title_color=ffffff&border_color=112e5f&icon_color=ffffff" />
 
 </p>
