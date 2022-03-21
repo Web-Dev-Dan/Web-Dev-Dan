@@ -34,7 +34,7 @@
     <img width="400" src="https://github.com/Web-Dev-Dan/JavaScript-To-Do-List/blob/main/To-Do-List-Screenshot.png" />
   </a>
   <a href="https://web-dev-dan.github.io/JavaScript-To-Do-List/">
-    <img width="400" src="https://github.com/Web-Dev-Dan/JavaScript-To-Do-List/blob/main/To-Do-List-Screenshot.png" />
+    <img width="400" src="https://github.com/Web-Dev-Dan/Thirdle/blob/main/Thirdle-Screenshot.png" />
   </a>
   <br />
   <a href="https://web-dev-dan.github.io/JavaScript-To-Do-List/">
