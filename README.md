@@ -40,7 +40,9 @@
   <a href="https://web-dev-dan.github.io/JavaScript-To-Do-List/">
     <img width="400" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Web-Dev-Dan&repo=JavaScript-To-Do-List&bg_color=325288&text_color=ffffff&title_color=ffffff&border_color=112e5f&icon_color=ffffff" />
   </a>
-  
+  <a href="https://web-dev-dan.github.io/Thirdle/">
+    <img width="400" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Web-Dev-Dan&repo=Thirdle&bg_color=325288&text_color=ffffff&title_color=ffffff&border_color=112e5f&icon_color=ffffff" />
+  </a>
 </p>
 
 
