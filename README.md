@@ -45,6 +45,21 @@
   </a>
 </p>
 
+<p>
+  <a href="https://web-dev-dan.github.io/React-E-Commerce-Site/">
+    <img width="400" src="https://user-images.githubusercontent.com/80458000/186884755-2ae00c89-9076-4138-8fbd-e1da1f2a65fc.png" />
+  </a>
+  <a href="https://web-dev-dan.github.io/Taskr---Bug-Tracking-Application/">
+    <img width="400" src="https://user-images.githubusercontent.com/80458000/186883943-b4157a5d-e20f-4e67-a425-9b8c0d7d0c08.png" />
+  </a>
+  <br />
+  <a href="https://web-dev-dan.github.io/React-E-Commerce-Site/">
+    <img width="400" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Web-Dev-Dan&repo=React-E-Commerce-Site&bg_color=325288&text_color=ffffff&title_color=ffffff&border_color=112e5f&icon_color=ffffff" />
+  </a>
+  <a href="https://web-dev-dan.github.io/Taskr---Bug-Tracking-Application/">
+    <img width="400" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Web-Dev-Dan&repo=Taskr---Bug-Tracking-Application&bg_color=325288&text_color=ffffff&title_color=ffffff&border_color=112e5f&icon_color=fff" />
+  </a>
+</p>
 
 
 <br />
